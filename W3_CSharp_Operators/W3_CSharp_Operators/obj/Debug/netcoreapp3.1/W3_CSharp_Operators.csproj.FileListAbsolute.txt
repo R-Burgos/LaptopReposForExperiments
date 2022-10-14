@@ -1,0 +1,14 @@
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\bin\Debug\netcoreapp3.1\W3_CSharp_Operators.exe
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\bin\Debug\netcoreapp3.1\W3_CSharp_Operators.deps.json
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\bin\Debug\netcoreapp3.1\W3_CSharp_Operators.runtimeconfig.json
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\bin\Debug\netcoreapp3.1\W3_CSharp_Operators.runtimeconfig.dev.json
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\bin\Debug\netcoreapp3.1\W3_CSharp_Operators.dll
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\bin\Debug\netcoreapp3.1\W3_CSharp_Operators.pdb
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\obj\Debug\netcoreapp3.1\W3_CSharp_Operators.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\obj\Debug\netcoreapp3.1\W3_CSharp_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\obj\Debug\netcoreapp3.1\W3_CSharp_Operators.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\obj\Debug\netcoreapp3.1\W3_CSharp_Operators.AssemblyInfo.cs
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\obj\Debug\netcoreapp3.1\W3_CSharp_Operators.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\obj\Debug\netcoreapp3.1\W3_CSharp_Operators.dll
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\obj\Debug\netcoreapp3.1\W3_CSharp_Operators.pdb
+C:\Users\coder\source\repos\W3_CSharp_Operators\W3_CSharp_Operators\obj\Debug\netcoreapp3.1\W3_CSharp_Operators.genruntimeconfig.cache

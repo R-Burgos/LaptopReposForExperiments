@@ -1,0 +1,15 @@
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\bin\Debug\net6.0\W3 CSharp Type Casting Lesson.exe
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\bin\Debug\net6.0\W3 CSharp Type Casting Lesson.deps.json
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\bin\Debug\net6.0\W3 CSharp Type Casting Lesson.runtimeconfig.json
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\bin\Debug\net6.0\W3 CSharp Type Casting Lesson.dll
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\bin\Debug\net6.0\W3 CSharp Type Casting Lesson.pdb
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\W3 CSharp Type Casting Lesson.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\W3 CSharp Type Casting Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\W3 CSharp Type Casting Lesson.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\W3 CSharp Type Casting Lesson.AssemblyInfo.cs
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\W3 CSharp Type Casting Lesson.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\W3 CSharp Type Casting Lesson.dll
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\refint\W3 CSharp Type Casting Lesson.dll
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\W3 CSharp Type Casting Lesson.pdb
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\W3 CSharp Type Casting Lesson.genruntimeconfig.cache
+C:\Users\coder\source\repos\W3 CSharp Type Casting Lesson\W3 CSharp Type Casting Lesson\obj\Debug\net6.0\ref\W3 CSharp Type Casting Lesson.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W3 CSharp Type Casting Lesson/1.0.0": {
+        "runtime": {
+          "W3 CSharp Type Casting Lesson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W3 CSharp Type Casting Lesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
