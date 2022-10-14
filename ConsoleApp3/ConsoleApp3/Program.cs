@@ -36,13 +36,15 @@ namespace BMR
                 var maleBMR = (66.5 + (13.75 * ((Convert.ToDouble(userWeight) * 0.453592))) + (5.003 * ((Convert.ToDouble(userHeight) * 2.54))) - (6.75 * Convert.ToDouble(userAge)));
 
                 Console.WriteLine($"{userName}, your BMR is {Convert.ToInt32(maleBMR)}kcal.");
+                Console.WriteLine("BMR stands for basal metabolic rate. This is how many calories your body needs to sustain itself.");
 
             }
             else if (female == userSex)
             {
-                var femaleBMR = (66.5 + (13.75 * ((Convert.ToDouble(userWeight) * 0.453592))) + (5.003 * ((Convert.ToDouble(userHeight) * 2.54))) - (6.75 * Convert.ToDouble(userAge)));
+                var femaleBMR = (655.1 + (9.563 * ((Convert.ToDouble(userWeight) * 0.453592))) + (1.850 * ((Convert.ToDouble(userHeight) * 2.54))) - (4.676 * Convert.ToDouble(userAge)));
 
                 Console.WriteLine($"{userName}, your BMR is {Convert.ToInt32(femaleBMR)}kcal.");
+                Console.WriteLine("BMR stands for basal metabolic rate. This is how many calories your body needs to sustain itself.");
 
             }
             else
