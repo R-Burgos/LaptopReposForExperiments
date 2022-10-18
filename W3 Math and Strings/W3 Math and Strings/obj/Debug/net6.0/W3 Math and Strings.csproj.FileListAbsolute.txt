@@ -1,0 +1,15 @@
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\bin\Debug\net6.0\W3 Math and Strings.exe
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\bin\Debug\net6.0\W3 Math and Strings.deps.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\bin\Debug\net6.0\W3 Math and Strings.runtimeconfig.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\bin\Debug\net6.0\W3 Math and Strings.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\bin\Debug\net6.0\W3 Math and Strings.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\W3 Math and Strings.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\W3 Math and Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\W3 Math and Strings.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\W3 Math and Strings.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\W3 Math and Strings.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\W3 Math and Strings.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\refint\W3 Math and Strings.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\W3 Math and Strings.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\W3 Math and Strings.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\W3 Math and Strings\W3 Math and Strings\obj\Debug\net6.0\ref\W3 Math and Strings.dll

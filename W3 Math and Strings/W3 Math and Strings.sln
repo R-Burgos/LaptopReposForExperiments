@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3 Math and Strings", "W3 Math and Strings\W3 Math and Strings.csproj", "{ED85939E-DF16-4F54-801F-8AFE1B3EA9BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED85939E-DF16-4F54-801F-8AFE1B3EA9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED85939E-DF16-4F54-801F-8AFE1B3EA9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED85939E-DF16-4F54-801F-8AFE1B3EA9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED85939E-DF16-4F54-801F-8AFE1B3EA9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AFCC4BB-6BF9-4B18-A82F-4DD945E25ADF}
+	EndGlobalSection
+EndGlobal

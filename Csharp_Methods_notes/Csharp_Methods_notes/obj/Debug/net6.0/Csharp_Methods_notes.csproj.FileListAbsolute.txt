@@ -1,0 +1,15 @@
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\Csharp_Methods_notes.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\Csharp_Methods_notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\Csharp_Methods_notes.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\Csharp_Methods_notes.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\Csharp_Methods_notes.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\bin\Debug\net6.0\Csharp_Methods_notes.exe
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\bin\Debug\net6.0\Csharp_Methods_notes.deps.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\bin\Debug\net6.0\Csharp_Methods_notes.runtimeconfig.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\bin\Debug\net6.0\Csharp_Methods_notes.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\bin\Debug\net6.0\Csharp_Methods_notes.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\Csharp_Methods_notes.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\refint\Csharp_Methods_notes.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\Csharp_Methods_notes.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\Csharp_Methods_notes.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Csharp_Methods_notes\Csharp_Methods_notes\obj\Debug\net6.0\ref\Csharp_Methods_notes.dll
