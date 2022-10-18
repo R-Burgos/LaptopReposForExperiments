@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Method_Experimenting/1.0.0": {
+        "runtime": {
+          "Method_Experimenting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method_Experimenting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

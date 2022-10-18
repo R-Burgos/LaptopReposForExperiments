@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W3 Math and Strings/1.0.0": {
+        "runtime": {
+          "W3 Math and Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W3 Math and Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

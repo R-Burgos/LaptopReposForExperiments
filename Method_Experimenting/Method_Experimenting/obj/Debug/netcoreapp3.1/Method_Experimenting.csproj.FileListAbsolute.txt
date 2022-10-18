@@ -1,0 +1,14 @@
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\bin\Debug\netcoreapp3.1\Method_Experimenting.exe
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\bin\Debug\netcoreapp3.1\Method_Experimenting.deps.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\bin\Debug\netcoreapp3.1\Method_Experimenting.runtimeconfig.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\bin\Debug\netcoreapp3.1\Method_Experimenting.runtimeconfig.dev.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\bin\Debug\netcoreapp3.1\Method_Experimenting.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\bin\Debug\netcoreapp3.1\Method_Experimenting.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\obj\Debug\netcoreapp3.1\Method_Experimenting.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\obj\Debug\netcoreapp3.1\Method_Experimenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\obj\Debug\netcoreapp3.1\Method_Experimenting.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\obj\Debug\netcoreapp3.1\Method_Experimenting.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\obj\Debug\netcoreapp3.1\Method_Experimenting.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\obj\Debug\netcoreapp3.1\Method_Experimenting.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\obj\Debug\netcoreapp3.1\Method_Experimenting.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Method_Experimenting\Method_Experimenting\obj\Debug\netcoreapp3.1\Method_Experimenting.genruntimeconfig.cache
