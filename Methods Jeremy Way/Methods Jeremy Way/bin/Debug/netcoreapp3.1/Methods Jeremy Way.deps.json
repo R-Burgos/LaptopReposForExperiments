@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Methods Jeremy Way/1.0.0": {
+        "runtime": {
+          "Methods Jeremy Way.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methods Jeremy Way/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

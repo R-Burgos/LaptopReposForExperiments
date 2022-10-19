@@ -1,0 +1,14 @@
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\bin\Debug\netcoreapp3.1\Methods Jeremy Way.exe
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\bin\Debug\netcoreapp3.1\Methods Jeremy Way.deps.json
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\bin\Debug\netcoreapp3.1\Methods Jeremy Way.runtimeconfig.json
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\bin\Debug\netcoreapp3.1\Methods Jeremy Way.runtimeconfig.dev.json
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\bin\Debug\netcoreapp3.1\Methods Jeremy Way.dll
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\bin\Debug\netcoreapp3.1\Methods Jeremy Way.pdb
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\obj\Debug\netcoreapp3.1\Methods Jeremy Way.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\obj\Debug\netcoreapp3.1\Methods Jeremy Way.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\obj\Debug\netcoreapp3.1\Methods Jeremy Way.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\obj\Debug\netcoreapp3.1\Methods Jeremy Way.AssemblyInfo.cs
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\obj\Debug\netcoreapp3.1\Methods Jeremy Way.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\obj\Debug\netcoreapp3.1\Methods Jeremy Way.dll
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\obj\Debug\netcoreapp3.1\Methods Jeremy Way.pdb
+C:\Users\coder\source\repos\Methods Jeremy Way\Methods Jeremy Way\obj\Debug\netcoreapp3.1\Methods Jeremy Way.genruntimeconfig.cache
