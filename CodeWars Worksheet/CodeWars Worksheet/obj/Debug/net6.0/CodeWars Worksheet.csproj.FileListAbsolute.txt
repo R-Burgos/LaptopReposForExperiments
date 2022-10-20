@@ -13,3 +13,18 @@ C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\CodeWars Work
 C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.pdb
 C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.genruntimeconfig.cache
 C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\ref\CodeWars Worksheet.dll
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\bin\Debug\net6.0\CodeWars Worksheet.exe
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\bin\Debug\net6.0\CodeWars Worksheet.deps.json
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\bin\Debug\net6.0\CodeWars Worksheet.runtimeconfig.json
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\bin\Debug\net6.0\CodeWars Worksheet.dll
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\bin\Debug\net6.0\CodeWars Worksheet.pdb
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.AssemblyInfo.cs
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.dll
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\refint\CodeWars Worksheet.dll
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.pdb
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\CodeWars Worksheet.genruntimeconfig.cache
+C:\Users\coder\source\repos\CodeWars Worksheet\CodeWars Worksheet\obj\Debug\net6.0\ref\CodeWars Worksheet.dll

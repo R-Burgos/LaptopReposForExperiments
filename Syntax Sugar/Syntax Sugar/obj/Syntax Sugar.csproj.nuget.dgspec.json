@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coder\\source\\repos\\CodeWars Worksheet\\CodeWars Worksheet\\CodeWars Worksheet.csproj": {}
+    "C:\\Users\\coder\\source\\repos\\Syntax Sugar\\Syntax Sugar\\Syntax Sugar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coder\\source\\repos\\CodeWars Worksheet\\CodeWars Worksheet\\CodeWars Worksheet.csproj": {
+    "C:\\Users\\coder\\source\\repos\\Syntax Sugar\\Syntax Sugar\\Syntax Sugar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coder\\source\\repos\\CodeWars Worksheet\\CodeWars Worksheet\\CodeWars Worksheet.csproj",
-        "projectName": "CodeWars Worksheet",
-        "projectPath": "C:\\Users\\coder\\source\\repos\\CodeWars Worksheet\\CodeWars Worksheet\\CodeWars Worksheet.csproj",
+        "projectUniqueName": "C:\\Users\\coder\\source\\repos\\Syntax Sugar\\Syntax Sugar\\Syntax Sugar.csproj",
+        "projectName": "Syntax Sugar",
+        "projectPath": "C:\\Users\\coder\\source\\repos\\Syntax Sugar\\Syntax Sugar\\Syntax Sugar.csproj",
         "packagesPath": "C:\\Users\\coder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coder\\source\\repos\\CodeWars Worksheet\\CodeWars Worksheet\\obj\\",
+        "outputPath": "C:\\Users\\coder\\source\\repos\\Syntax Sugar\\Syntax Sugar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\coder\\AppData\\Roaming\\NuGet\\NuGet.Config",
