@@ -12,3 +12,17 @@ C:\Users\coder\source\repos\Testing CodeWars\Testing CodeWars\obj\Debug\netcorea
 C:\Users\coder\source\repos\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.dll
 C:\Users\coder\source\repos\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.pdb
 C:\Users\coder\source\repos\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\bin\Debug\netcoreapp3.1\Testing CodeWars.exe
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\bin\Debug\netcoreapp3.1\Testing CodeWars.deps.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\bin\Debug\netcoreapp3.1\Testing CodeWars.runtimeconfig.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\bin\Debug\netcoreapp3.1\Testing CodeWars.runtimeconfig.dev.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\bin\Debug\netcoreapp3.1\Testing CodeWars.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\bin\Debug\netcoreapp3.1\Testing CodeWars.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing CodeWars\Testing CodeWars\obj\Debug\netcoreapp3.1\Testing CodeWars.genruntimeconfig.cache
