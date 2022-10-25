@@ -1,0 +1,15 @@
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\bin\Debug\net6.0\ArrayListLesson.exe
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\bin\Debug\net6.0\ArrayListLesson.deps.json
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\bin\Debug\net6.0\ArrayListLesson.runtimeconfig.json
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\bin\Debug\net6.0\ArrayListLesson.dll
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\bin\Debug\net6.0\ArrayListLesson.pdb
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ArrayListLesson.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ArrayListLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ArrayListLesson.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ArrayListLesson.AssemblyInfo.cs
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ArrayListLesson.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ArrayListLesson.dll
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\refint\ArrayListLesson.dll
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ArrayListLesson.pdb
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ArrayListLesson.genruntimeconfig.cache
+C:\Users\coder\source\repos\ArrayListLesson\ArrayListLesson\obj\Debug\net6.0\ref\ArrayListLesson.dll
