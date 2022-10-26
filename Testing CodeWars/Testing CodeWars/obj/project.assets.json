@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\coder\\.nuget\\packages\\": {}
+    "C:\\Users\\Ruben\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coder\\source\\repos\\Testing CodeWars\\Testing CodeWars\\Testing CodeWars.csproj",
+      "projectUniqueName": "C:\\Users\\Ruben\\Desktop\\Personal Projects\\LaptopReposForExperiments\\Testing CodeWars\\Testing CodeWars\\Testing CodeWars.csproj",
       "projectName": "Testing CodeWars",
-      "projectPath": "C:\\Users\\coder\\source\\repos\\Testing CodeWars\\Testing CodeWars\\Testing CodeWars.csproj",
-      "packagesPath": "C:\\Users\\coder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coder\\source\\repos\\Testing CodeWars\\Testing CodeWars\\obj\\",
+      "projectPath": "C:\\Users\\Ruben\\Desktop\\Personal Projects\\LaptopReposForExperiments\\Testing CodeWars\\Testing CodeWars\\Testing CodeWars.csproj",
+      "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ruben\\Desktop\\Personal Projects\\LaptopReposForExperiments\\Testing CodeWars\\Testing CodeWars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\coder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

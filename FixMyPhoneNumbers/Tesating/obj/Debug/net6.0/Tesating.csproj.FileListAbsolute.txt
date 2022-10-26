@@ -1,0 +1,15 @@
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\bin\Debug\net6.0\Tesating.exe
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\bin\Debug\net6.0\Tesating.deps.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\bin\Debug\net6.0\Tesating.runtimeconfig.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\bin\Debug\net6.0\Tesating.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\bin\Debug\net6.0\Tesating.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\Tesating.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\Tesating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\Tesating.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\Tesating.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\Tesating.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\Tesating.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\refint\Tesating.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\Tesating.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\Tesating.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Tesating\Tesating\obj\Debug\net6.0\ref\Tesating.dll

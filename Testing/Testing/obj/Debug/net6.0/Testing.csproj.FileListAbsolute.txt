@@ -1,0 +1,15 @@
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\bin\Debug\net6.0\Testing.exe
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\bin\Debug\net6.0\Testing.deps.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\bin\Debug\net6.0\Testing.runtimeconfig.json
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\bin\Debug\net6.0\Testing.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\bin\Debug\net6.0\Testing.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\Testing.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\Testing.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\Testing.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\Testing.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\refint\Testing.dll
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\Testing.pdb
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\Testing.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Testing\Testing\obj\Debug\net6.0\ref\Testing.dll
