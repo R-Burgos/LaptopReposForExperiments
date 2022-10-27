@@ -3,33 +3,52 @@
     internal class Program
     {
 
-        //Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e.no negative integers.
-
-
-
-        public static void CountSheep(int n)
+        public static string RepeatStr(int n, string s)
         {
-            //for (int i = 0; i < n; i++)
-            //{
-            //    Console.Write($"{i+1} sheep...");
-            //}
-  
+            var i = 0;
+            List<string> list = new List<string>();
 
+            if (n == 0 || n == null)
+            {
+                return string.Empty;
+            }
+            else
+            {
+                do
+                {
+                    list.Add(s);
 
+                    i++;
+                } while (i < n);
+            }
 
-
-
-
-
-
-
-
-
-
-
-
-
+            return string.Join("", list);
         }
+
+
+        public static ulong OddCount(ulong x)
+        {
+
+            ulong topRange = x;
+            ulong bottomRange = 1;
+            ulong numOdds;
+            if (topRange % 2 != 0)
+            {
+                topRange++;
+                
+            }
+            else
+            {
+                bottomRange--;
+            }
+            numOdds = (topRange - bottomRange) / 2;
+            
+            return numOdds;
+        
+        }
+
+
+       
 
 
 
@@ -37,18 +56,14 @@
 
         static void Main(string[] args)
         {
+            int n = 3;
+            string s = "s";
+            ulong x = 15;
+            ulong y = 15023;
 
-            int a = 0;
-            int b = 1;
-            int c = 2;
-            int d = 3;
-            int x = 5;
+            //Console.WriteLine(RepeatStr(n, s));
 
-
-            
-            CountSheep(x);
-            
-
+            //Console.WriteLine(OddCount(y));
 
 
         }
