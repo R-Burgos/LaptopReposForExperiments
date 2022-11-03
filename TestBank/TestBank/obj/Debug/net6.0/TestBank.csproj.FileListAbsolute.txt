@@ -1,0 +1,15 @@
+C:\Users\coder\source\repos\TestBank\TestBank\bin\Debug\net6.0\TestBank.exe
+C:\Users\coder\source\repos\TestBank\TestBank\bin\Debug\net6.0\TestBank.deps.json
+C:\Users\coder\source\repos\TestBank\TestBank\bin\Debug\net6.0\TestBank.runtimeconfig.json
+C:\Users\coder\source\repos\TestBank\TestBank\bin\Debug\net6.0\TestBank.dll
+C:\Users\coder\source\repos\TestBank\TestBank\bin\Debug\net6.0\TestBank.pdb
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\TestBank.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\TestBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\TestBank.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\TestBank.AssemblyInfo.cs
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\TestBank.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\TestBank.dll
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\refint\TestBank.dll
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\TestBank.pdb
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\TestBank.genruntimeconfig.cache
+C:\Users\coder\source\repos\TestBank\TestBank\obj\Debug\net6.0\ref\TestBank.dll

@@ -1,0 +1,15 @@
+C:\Users\coder\source\repos\Abstracts\Abstracts\bin\Debug\net6.0\Abstracts.exe
+C:\Users\coder\source\repos\Abstracts\Abstracts\bin\Debug\net6.0\Abstracts.deps.json
+C:\Users\coder\source\repos\Abstracts\Abstracts\bin\Debug\net6.0\Abstracts.runtimeconfig.json
+C:\Users\coder\source\repos\Abstracts\Abstracts\bin\Debug\net6.0\Abstracts.dll
+C:\Users\coder\source\repos\Abstracts\Abstracts\bin\Debug\net6.0\Abstracts.pdb
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\Abstracts.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\Abstracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\Abstracts.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\Abstracts.AssemblyInfo.cs
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\Abstracts.dll
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\refint\Abstracts.dll
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\Abstracts.pdb
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\Abstracts.genruntimeconfig.cache
+C:\Users\coder\source\repos\Abstracts\Abstracts\obj\Debug\net6.0\ref\Abstracts.dll
