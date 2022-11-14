@@ -1,0 +1,15 @@
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\bin\Debug\net6.0\SoloLearnWorksheet.exe
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\bin\Debug\net6.0\SoloLearnWorksheet.deps.json
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\bin\Debug\net6.0\SoloLearnWorksheet.runtimeconfig.json
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\bin\Debug\net6.0\SoloLearnWorksheet.dll
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\bin\Debug\net6.0\SoloLearnWorksheet.pdb
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\SoloLearnWorksheet.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\SoloLearnWorksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\SoloLearnWorksheet.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\SoloLearnWorksheet.AssemblyInfo.cs
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\SoloLearnWorksheet.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\SoloLearnWorksheet.dll
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\refint\SoloLearnWorksheet.dll
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\SoloLearnWorksheet.pdb
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\SoloLearnWorksheet.genruntimeconfig.cache
+C:\Users\coder\source\repos\SoloLearnWorksheet\SoloLearnWorksheet\obj\Debug\net6.0\ref\SoloLearnWorksheet.dll

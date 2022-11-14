@@ -79,39 +79,80 @@ namespace CodeWars_Worksheet
 
         }
 
-        public static int[] MoveZeroes(int[] arr)
+
+        public static int[] CountBy(int x, int n)
         {
-           
-           
+            int[] z = new int[n];
 
-          
-              
+            for (int i = 0; i < z.Length; i++)
+            {
+                Console.WriteLine($"{z[i]} before");
+                z[i] = x * (i+1);
+                Console.WriteLine($"{z[i]} after");
+            }
 
+            return z;
+        }
+
+        public static bool BetterThanAverage(int[] ClassPoints, int YourPoints)
+        {
+            int sum = YourPoints;
+            int totalArr = ClassPoints.Length + 1;
+
+            for (int i = 0; i < ClassPoints.Length; i++)
+            {
+                sum += ClassPoints[i];
+            }
+
+            int average = sum / totalArr;
+
+            if (average >= YourPoints)
+            {
+                return false;
+            }
+            else
+            { 
+                return true;
+            }
+        }
+
+        public static int Sum(int[] numbers)
+        {
+            var arrSize = numbers.Length;
+
+            if (arrSize <= 1)
+            {
+                return 0;
+            }
+            else
+            {
+                Array.Sort(numbers);
+                Array.
+            
+            
+            
+            }
+
+            return 0;
+        }
+
+        public static IEnumerable<string> FriendOrFoe(string[] names)
+        {
+            foreach (var x in names)
+            {
+                foreach (char c in x)
+                { 
+                    
                 
-
+                }
 
 
 
 
             
-
-
-
-
-
-
-
-
-
-
-
+            }
+        
         }
-
-
-
-
-
-
         static void Main(string[] args)
         {
             //int n = 3;
@@ -138,9 +179,22 @@ namespace CodeWars_Worksheet
             //Console.WriteLine(Likes(name4));
             //Console.WriteLine(Likes(name5));
 
-            int[] numz = { 1, 2, 0, 1, 0, 1, 0, 3, 0, 1 };
+            //int x = 2;
+            //int n = 5;
 
-            MoveZeroes(numz);
+            //CountBy(x, n);
+
+            //int[] classPoints1 = new int[] { 2, 3};
+            //int myPoints1 = 5;
+
+            //int[] classPoints2 = new int[] { 100, 40, 34, 57, 29, 72, 57, 88 };
+            //int myPoints2 = 19;
+
+            //Console.WriteLine(BetterThanAverage(classPoints1, myPoints1));
+            //Console.WriteLine(BetterThanAverage(classPoints2, myPoints2));
+
+            //int[] numbers = new int[] { 6, 2, 1, 8, 10 };
+
 
         }
     }
